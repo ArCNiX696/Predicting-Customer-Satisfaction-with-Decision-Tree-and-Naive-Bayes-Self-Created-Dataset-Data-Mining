@@ -1,4 +1,5 @@
 📊 Predicting Customer Satisfaction with Decision Tree and Naive Bayes: Self-Created Dataset (Data Mining)
+
 Welcome to the repository for our Data Mining class project! This project involves the implementation and analysis of Decision Tree and Gaussian Naive Bayes algorithms to predict customer satisfaction. Below, you'll find an overview of the project, key insights, and instructions to get started.
 
 📘 Project Overview
